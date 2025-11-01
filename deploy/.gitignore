@@ -1,0 +1,39 @@
+# ========== Python ==========
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.log
+
+# ========== Environment & Secrets ==========
+.env
+*.env
+venv/
+env/
+.venv/
+ENV/
+*.pem
+*.key
+
+# ========== Streamlit ==========
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# ========== OS & IDE files ==========
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.code-workspace
+
+# ========== Jupyter ==========
+.ipynb_checkpoints/
+*.ipynb
+
+# ========== Cache & build ==========
+*.egg-info/
+build/
+dist/
+.cache/
+.pytest_cache/

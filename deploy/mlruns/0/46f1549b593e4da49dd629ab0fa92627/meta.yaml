@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ahmed/Desktop/New%20folder%20%282%29/ASD%20SmartCare/Autism%20Spectrum%20Disorder/deploy/mlruns/0/46f1549b593e4da49dd629ab0fa92627/artifacts
+end_time: 1741794945750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46f1549b593e4da49dd629ab0fa92627
+run_name: D:\model\f46fb99a_Can_you_de
+run_uuid: 46f1549b593e4da49dd629ab0fa92627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741788860835
+status: 3
+tags: []
+user_id: ahmed
