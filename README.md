@@ -1,2 +1,12 @@
-# Autism-Spectrum-Disorder
-An advanced AI system that integrates two specialized models — one for autism preliminary diagnosis and another for severity level detection. It also includes an intelligent medical chatbot capable of understanding both Arabic and English, providing expert autism-related guidance through text or voice interaction for enhanced accessibility.
+The AI module in this project is the core intelligence of the Autism Spectrum Disorder Smart Care System.
+It consists of:
+
+🧩 Autism Diagnosis Model: Predicts the likelihood of autism based on user responses and behavioral indicators.
+
+🎚️ Severity Detection Model: Determines the degree of autism (Mild, Moderate, Severe) using a specialized ML classifier.
+
+💬 Specialized Chatbot: Acts as a virtual ASD expert that provides autism-related insights, screening assistance, and care recommendations in Arabic and English.
+
+🔊 Voice Interaction Support: Allows users to interact via speech for more natural and inclusive communication.
+
+Together, these AI components form an intelligent ecosystem that supports early detection, continuous assessment, and personalized guidance for individuals with Autism Spectrum Disorder.
